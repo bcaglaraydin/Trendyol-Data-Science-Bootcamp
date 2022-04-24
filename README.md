@@ -3,4 +3,4 @@
 YouDo#1
 
 # Simply click on the link to run the Stramlit App:
-https://share.streamlit.io/bcaglaraydin/ds-bc/main/youdo1.py
+https://share.streamlit.io/bcaglaraydin/trendyol-data-science-bootcamp/main/youdo1.py
